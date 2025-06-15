@@ -9,7 +9,7 @@
     <version>1.37.0</version>
 
     <name>Google Auth Library for Java - OAuth2 HTTP - OSGi Bundle</name>
-    <description>Shaded OSGi bundle of Google OAuth Client Library for Java</description>
+    <description>Shaded OSGi bundle of Google Auth Library for Java - OAuth2 HTTP</description>
     <url>${url}</url>
     <inceptionYear>2025</inceptionYear>
 
